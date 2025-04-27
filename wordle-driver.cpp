@@ -28,5 +28,6 @@ int main(int argc, char* argv[])
     for(auto s : answers){
         cout << s << endl;
     }
+
     return 0;
 }
